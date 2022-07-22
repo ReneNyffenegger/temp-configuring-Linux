@@ -1,1 +1,1 @@
-cp ~/localgit/nach_linux_installation/home/netrc ~/.netrc
+. ~/localgit/nach_linux_installation/home/netrc
